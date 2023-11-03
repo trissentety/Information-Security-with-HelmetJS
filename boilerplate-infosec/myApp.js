@@ -4,7 +4,6 @@ const app = express();
 const helmet = require('helmet');
 // helmet in myApp.js
 
-const PORT = process.env.PORT || 3030;
 
 
 
